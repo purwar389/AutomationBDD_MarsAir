@@ -39,6 +39,16 @@ All Test Cases : https://reports.cucumber.io/reports/e9f44d23-33d4-496d-9927-f48
 Defects: https://marsair.recruiting.thoughtworks.net/GauravPurwar/issues
 
 
+## Testing Approach
+- Applied boundary value analysis and equivalence partitioning to maximize test coverage.
+- Incorporated behavior-driven development (BDD) principles using Cucumber to align test cases with user stories effectively.
+- Utilized data-driven testing to validate application behavior across various datasets.
+- Employed parameterized testing to verify different input combinations systematically.
+- Conducted regression testing to prevent introduction of new bugs.
+- Leveraged Postman and network console for API testing to ensure robust API authentication compliance.
+- Collaborated closely with cross-functional teams to address issues promptly.
+- Provisioned for multiple browser testing to validate cross-browser compatibility and enhance user experience.
+
 
 ## Framework Requirements
 * Java Development Kit

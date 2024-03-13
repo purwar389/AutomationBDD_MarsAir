@@ -149,21 +149,24 @@ WebAutomationTW
 
 >https://reports.cucumber.io/reports/e9f44d23-33d4-496d-9927-f48350abd197
 
+<img width="1053" alt="Screenshot 2024-03-14 at 1 10 31 am" src="https://github.com/purwar389/AutomationBDD_MarsAir/assets/8833241/8a4897b4-dcff-49e2-ae77-6feeada44b57">
 
-![](../../../../var/folders/g5/93t2ldnj5mbbntmbxf6tc_f40000gn/T/TemporaryItems/NSIRD_screencaptureui_NZ6bRl/Screenshot 2024-03-13 at 8.44.30 pm.png)
 
 **Run time Allure report:**
 Sample Allure report with pass fail stats:
+<img width="1048" alt="Screenshot 2024-03-14 at 1 10 53 am" src="https://github.com/purwar389/AutomationBDD_MarsAir/assets/8833241/d60230c4-79c9-41c0-b5d4-c9bd5ccbde9a">
 
-![](../../../../var/folders/g5/93t2ldnj5mbbntmbxf6tc_f40000gn/T/TemporaryItems/NSIRD_screencaptureui_1mzTsE/Screenshot 2024-03-13 at 8.45.24 pm.png)
 >allure serve /Users/biluesparesydney8/Documents/WebAutomationTW/allure-results
 
 Extent Cucumber spark html report:
-![](../../../../var/folders/g5/93t2ldnj5mbbntmbxf6tc_f40000gn/T/TemporaryItems/NSIRD_screencaptureui_mJVsm3/Screenshot 2024-03-13 at 8.47.00 pm.png)
+<img width="1045" alt="Screenshot 2024-03-14 at 1 11 19 am" src="https://github.com/purwar389/AutomationBDD_MarsAir/assets/8833241/5955bd06-9c72-44ff-9af6-4055cea180a1">
+
 TestNG Emailable Report:
-![](../../../../var/folders/g5/93t2ldnj5mbbntmbxf6tc_f40000gn/T/TemporaryItems/NSIRD_screencaptureui_UEwKUJ/Screenshot 2024-03-13 at 11.54.18 pm.png)
+
+<img width="1048" alt="Screenshot 2024-03-14 at 1 16 35 am" src="https://github.com/purwar389/AutomationBDD_MarsAir/assets/8833241/2fdac84e-e135-4906-9a6a-f108ed1096be">
+
 Console
-![](../../../../var/folders/g5/93t2ldnj5mbbntmbxf6tc_f40000gn/T/TemporaryItems/NSIRD_screencaptureui_VacB0a/Screenshot 2024-03-13 at 8.48.21 pm.png)
+<img width="1044" alt="Screenshot 2024-03-14 at 1 17 05 am" src="https://github.com/purwar389/AutomationBDD_MarsAir/assets/8833241/bb56dfcc-bcaf-4d7e-925d-3c53790c2490">
 
 Project Folder Structure Screen:
-![](../../../../var/folders/g5/93t2ldnj5mbbntmbxf6tc_f40000gn/T/TemporaryItems/NSIRD_screencaptureui_FnEBOR/Screenshot 2024-03-13 at 11.56.14 pm.png)
+<img width="424" alt="Screenshot 2024-03-14 at 1 17 49 am" src="https://github.com/purwar389/AutomationBDD_MarsAir/assets/8833241/8c81d432-f226-4279-abf6-a6a788bb29d1">

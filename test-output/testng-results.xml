@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-25T03:51:36 IST" name="Planit Suite" finished-at="2022-03-25T03:52:49 IST" duration-ms="72957">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.gp.test.runner.TestRunner@6c0d9d86]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2022-03-25T03:51:36 IST" name="Planit Technical Assessment – Automation" finished-at="2022-03-25T03:52:49 IST" duration-ms="72957">
+      <class name="com.gp.test.runner.TestRunner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.gp.test.runner.TestRunner@6c0d9d86]" started-at="2022-03-25T03:51:36 IST" name="setUpClass" finished-at="2022-03-25T03:51:37 IST" duration-ms="1042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.gp.test.runner.TestRunner@6c0d9d86]" started-at="2022-03-25T03:51:37 IST" name="beforeClass" finished-at="2022-03-25T03:51:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.gp.test.runner.TestRunner@6c0d9d86]" started-at="2022-03-25T03:51:37 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-25T03:51:58 IST" duration-ms="21476" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test Case 1"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Testing Jupitor Toys Pages]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.gp.test.runner.TestRunner@6c0d9d86]" started-at="2022-03-25T03:51:58 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-25T03:52:20 IST" duration-ms="21503" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test Case 2"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Testing Jupitor Toys Pages]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.gp.test.runner.TestRunner@6c0d9d86]" started-at="2022-03-25T03:52:20 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-25T03:52:34 IST" duration-ms="14254" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test Case 3"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Testing Jupitor Toys Pages]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.gp.test.runner.TestRunner@6c0d9d86]" started-at="2022-03-25T03:52:34 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-25T03:52:45 IST" duration-ms="10729" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test Case 4"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Testing Jupitor Toys Pages]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.gp.test.runner.TestRunner@6c0d9d86]" started-at="2022-03-25T03:52:45 IST" name="afterClass" finished-at="2022-03-25T03:52:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.gp.test.runner.TestRunner@6c0d9d86]" started-at="2022-03-25T03:52:45 IST" name="tearDownClass" finished-at="2022-03-25T03:52:49 IST" duration-ms="3802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.gp.test.runner.TestRunner -->
+    </test> <!-- Planit Technical Assessment – Automation -->
+  </suite> <!-- Planit Suite -->
+</testng-results>

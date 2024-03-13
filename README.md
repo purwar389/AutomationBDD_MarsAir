@@ -154,11 +154,13 @@ WebAutomationTW
 
 **Run time Allure report:**
 Sample Allure report with pass fail stats:
+
 <img width="1048" alt="Screenshot 2024-03-14 at 1 10 53 am" src="https://github.com/purwar389/AutomationBDD_MarsAir/assets/8833241/d60230c4-79c9-41c0-b5d4-c9bd5ccbde9a">
 
 >allure serve /Users/biluesparesydney8/Documents/WebAutomationTW/allure-results
 
 Extent Cucumber spark html report:
+
 <img width="1045" alt="Screenshot 2024-03-14 at 1 11 19 am" src="https://github.com/purwar389/AutomationBDD_MarsAir/assets/8833241/5955bd06-9c72-44ff-9af6-4055cea180a1">
 
 TestNG Emailable Report:
@@ -166,7 +168,9 @@ TestNG Emailable Report:
 <img width="1048" alt="Screenshot 2024-03-14 at 1 16 35 am" src="https://github.com/purwar389/AutomationBDD_MarsAir/assets/8833241/2fdac84e-e135-4906-9a6a-f108ed1096be">
 
 Console
+
 <img width="1044" alt="Screenshot 2024-03-14 at 1 17 05 am" src="https://github.com/purwar389/AutomationBDD_MarsAir/assets/8833241/bb56dfcc-bcaf-4d7e-925d-3c53790c2490">
 
 Project Folder Structure Screen:
+
 <img width="424" alt="Screenshot 2024-03-14 at 1 17 49 am" src="https://github.com/purwar389/AutomationBDD_MarsAir/assets/8833241/8c81d432-f226-4279-abf6-a6a788bb29d1">

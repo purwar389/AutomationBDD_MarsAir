@@ -23,8 +23,8 @@ import static com.gp.au.methods.SelectorType.*;
  *
  */
 
-public class HomePage implements BaseTest {
-
+public class HomePage implements BaseTest{
+	private String promoCode;
 	public String getPromoCode() {
 		return promoCode;
 	}
@@ -33,7 +33,7 @@ public class HomePage implements BaseTest {
 		this.promoCode = promoCode;
 	}
 
-	private String promoCode;
+
 	public void goToHomePage() {
 		Log.INFO("Go to Home Page");
 		if(!browser.isDriverNull()){

@@ -12,7 +12,7 @@ import io.cucumber.testng.CucumberOptions;
 	    features ="src/test/resources/Features",
 	    glue = {"com.gp.test.featureDefinitions"},
 	    plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
-		tags = "@all",
+		tags = "@travel",
 		publish =true,
 	    monochrome = true
 )
